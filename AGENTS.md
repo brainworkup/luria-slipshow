@@ -10,3 +10,7 @@ This directory is a local mirror of the ChatGPT project “luria-app-redesign”
 ## Project instructions
 
 This project has no custom instructions.
+
+## Code Map
+
+- `sources/` — project documentation
